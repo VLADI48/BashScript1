@@ -2,8 +2,8 @@
 #Developed by Bogatov Vladimir Vladimirovich
 
 host=localhost
-dbuser=db
-dbbase=db
+dbuser=Your database user
+dbbase=Name of your database
 i=1
 
 #Checking for files data(i).txt in the catalog
